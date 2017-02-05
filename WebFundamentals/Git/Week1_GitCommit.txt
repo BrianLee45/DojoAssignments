@@ -14,3 +14,5 @@ git add aboutMe.txt
 git commit -m "added favorite movie to aboutMe"
 git log
 git revert HEAD~1
+git add .
+git commit -m "modified aboutMe after commit"
